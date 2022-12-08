@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.d-flex {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 7rem;
+  align-items: center;
+}
+.img_setting{
+    width: 10rem;
+    border: .25rem solid rgba(0, 0, 0, 0.488);
+  border-radius: 50%;
+
+}
+.text-center{
+    text-align: center;
+}
+.mt-2{
+    margin-top: 2rem;
+}
