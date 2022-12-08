@@ -8,10 +8,11 @@
 }
 .d-flex {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   flex-wrap: wrap;
-  gap: 7rem;
+  /* gap: 7rem; */
   align-items: center;
+  margin: 5rem 0 0 0
 }
 .img_setting{
     width: 10rem;
@@ -24,6 +25,9 @@
 }
 .mt-2{
     margin-top: 2rem;
+}
+.p-1{
+    padding: 1rem;
 }
 span{
     font-weight:bold;
