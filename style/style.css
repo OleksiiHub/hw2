@@ -25,3 +25,18 @@
 .mt-2{
     margin-top: 2rem;
 }
+span{
+    font-weight:bold;
+}
+a{
+    text-decoration: none;
+}
+dl {
+    margin: 2rem 0;
+}
+dt{
+    font-weight: bold;
+}
+dd{
+    margin: .25rem 0 .25rem 1.5rem;
+}
