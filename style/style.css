@@ -22,8 +22,9 @@ body {
 }
 .img_setting {
   width: 10rem;
-  border: 0.25rem solid rgba(0, 0, 0, 0.488);
+  border: 2px solid rgba(0, 0, 0, 0.488);
   border-radius: 50%;
+  padding: 10px;
 }
 .text-center {
   text-align: center;
@@ -88,4 +89,13 @@ h1 {
 }
 ol>li{
   margin-left: 2rem;
+}
+.border_buttom{
+  border-bottom: 1px solid #005;
+}
+table{
+  background-color: rgba(49, 119, 172, 0.754);
+}
+.table_special_color{
+  background-color: rgba(49, 88, 143, 0.989);
 }
